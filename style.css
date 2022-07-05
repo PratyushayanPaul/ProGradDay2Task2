@@ -1,0 +1,202 @@
+footer{
+    position: relative;
+    text-align: center;
+    word-spacing: 100px;;
+    color: white;
+    padding: 10px;
+    border-radius: 10px 10px 0 0;
+    margin-left: -20%;
+}
+#background_image{
+    width: 98.9%;
+    height: 100%;
+    position:absolute;
+}
+.portfolio{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    color: white;
+    position: relative;
+    height: 100px;
+    margin-left: 40%;
+    margin-top: -35%;
+    text-transform: uppercase;
+}
+.name{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(18, 133, 200);
+    position: relative;
+    height: 100px;
+    margin-left: 38%;
+    margin-top: 30%;
+    text-transform: uppercase;
+}
+#profile_photo{
+    position: relative;
+    width: 300px;
+    height: 400px;
+    border-radius: 50%;
+    margin-left: 40%;
+    margin-top: 10%;
+    
+}
+#notebook_image{
+    position: relative;
+    width: 100%;
+}
+#AboutMe{
+    position: relative;
+    color: black;
+    margin-top: -60%;
+    margin-left: 30%;
+    font-size: xx-large;
+    font-style: oblique;   
+}
+#techimage{
+    position: relative;
+    width: 40%;
+    margin-left: 30%;
+    border-radius: 10%;
+}
+#back1{
+    position: absolute;
+    margin-left: -36%;
+    margin-top: 27%;
+    width: 60px;
+    height: 30px;
+    background-color:rgb(15, 225, 239);
+    color: black;
+    border: 2px solid black;
+    font-size: large;
+    border-radius: 12px;
+}
+#next1{
+    position: absolute;
+    margin-left: -12%;
+    margin-top: 27%;
+    width: 170px;
+    height: 30px;
+    background-color:rgb(15, 225, 239);
+    color: black;
+    border: 2px solid black;
+    font-size: large;
+    border-radius: 12px;
+}
+/* a:hover{
+    background-color: orange;
+} */
+#zerobutton{
+    padding: 10px;
+    text-align: center;
+    background-color:rgb(15, 225, 239);
+    color: black;
+    border: 2px solid black;
+    font-size: large;
+    border-radius: 12px;
+
+}
+#bookimage{
+    position:relative;
+    width: 100%;
+    
+}
+table{
+    position: relative;
+    border: 3px solid black;
+    column-width: 30px;
+    margin-top: -50%;
+    margin-left: 1%;
+    text-align: center;
+    width: 60%;
+    border-collapse: collapse;
+}
+td{
+    padding: 10px;
+    border: 2px solid black;
+
+}
+th{
+    border: 2px solid black;  
+}
+#back2{
+    position: relative;
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 60px;
+    height: 40px;
+    background-color:rgb(34, 207, 230);
+    color: black;
+    border: 2px solid black;
+    font-size: large;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+#next2{
+    position: relative;
+    margin-left: 20%;
+    margin-top: 5%;
+    width: 140px;
+    height: 40px;
+    background-color:rgb(34, 207, 230);
+    color: black;
+    border: 2px solid black;
+    font-size: large;
+    border-radius: 12px;
+    padding: 5px;
+}
+#deskimage{
+    position: absolute;
+    width: 100%;
+}
+#resume{
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 1%;
+}
+#back3{
+    position: relative;
+    margin-left: 45%;
+    margin-bottom: 0%;
+    width: 60px;
+    height: 40px;
+    background-color:rgb(34, 207, 230);
+    color: black;
+    border: 2px solid black;
+    font-size: large;
+    border-radius: 12px;
+    padding: 5px;
+}
+#next3{
+    position: relative;
+    margin-left: 20%;
+    margin-top: 64%;
+    width: 140px;
+    height: 40px;
+    background-color:rgb(34, 207, 230);
+    color: black;
+    border: 2px solid black;
+    font-size: large;
+    border-radius: 12px;
+    padding: 5px;
+}
+#contactbackground{
+    width: 100%;
+    position: relative;
+}
+.contact{
+    font-size: xx-large;
+    position: absolute;
+    margin-top: -50%;
+    margin-left: 50%;
+}
+#link{
+    column-width: 20px;
+}
+#lastbutton{
+    padding: 5px;
+    font-size: xx-large;
+    margin-left: 15%;
+    background-color: yellowgreen;
+    border: 2px solid black;
+}
