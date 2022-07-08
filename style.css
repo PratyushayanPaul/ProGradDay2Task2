@@ -50,36 +50,38 @@ header{
     color: black;
     margin-top: -60%;
     margin-left: 30%;
-    font-size: xx-large;
-    font-style: oblique;   
+    font-size: x-large;
+    font-style: oblique;  
+    text-transform: uppercase; 
 }
 #techimage{
     position: relative;
-    width: 40%;
-    margin-left: 30%;
+    width: 30%;
+    margin-left: 34%;
     border-radius: 10%;
+    border: 10px solid black;
 }
 #back1{
     position: absolute;
-    margin-left: -36%;
-    margin-top: 27%;
+    margin-left: -28%;
+    margin-top: 23%;
     width: 60px;
     height: 30px;
     background-color:rgb(15, 225, 239);
     color: black;
-    border: 2px solid black;
+    border: 3px ridge black;
     font-size: large;
     border-radius: 12px;
 }
 #next1{
     position: absolute;
-    margin-left: -12%;
-    margin-top: 27%;
+    margin-left: -15%;
+    margin-top: 23%;
     width: 170px;
     height: 30px;
     background-color:rgb(15, 225, 239);
     color: black;
-    border: 2px solid black;
+    border: 3px ridge black;
     font-size: large;
     border-radius: 12px;
 }
@@ -91,9 +93,10 @@ header{
     text-align: center;
     background-color:rgb(15, 225, 239);
     color: black;
-    border: 2px solid black;
+    border: 8px double black;
     font-size: large;
     border-radius: 12px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
 #bookimage{
@@ -113,11 +116,13 @@ table{
 }
 td{
     padding: 10px;
-    border: 2px solid black;
+    border: 3px dotted black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 
 }
 th{
-    border: 2px solid black;  
+    border: 3px solid black;  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #back2{
     position: relative;
@@ -127,7 +132,7 @@ th{
     height: 40px;
     background-color:rgb(34, 207, 230);
     color: black;
-    border: 2px solid black;
+    border: 3px ridge black;
     font-size: large;
     border-radius: 12px;
     padding: 5px;
@@ -141,7 +146,7 @@ th{
     height: 40px;
     background-color:rgb(34, 207, 230);
     color: black;
-    border: 2px solid black;
+    border: 3px ridge black;
     font-size: large;
     border-radius: 12px;
     padding: 5px;
@@ -154,6 +159,7 @@ th{
     position: absolute;
     margin-left: 40%;
     margin-top: 1%;
+    border: 5px inset black;
 }
 #back3{
     position: relative;
@@ -163,7 +169,7 @@ th{
     height: 40px;
     background-color:rgb(34, 207, 230);
     color: black;
-    border: 2px solid black;
+    border: 3px ridge black;
     font-size: large;
     border-radius: 12px;
     padding: 5px;
@@ -176,7 +182,7 @@ th{
     height: 40px;
     background-color:rgb(34, 207, 230);
     color: black;
-    border: 2px solid black;
+    border: 3px ridge black;
     font-size: large;
     border-radius: 12px;
     padding: 5px;
@@ -199,5 +205,5 @@ th{
     font-size: xx-large;
     margin-left: 15%;
     background-color: yellowgreen;
-    border: 2px solid black;
+    border: 5px ridge black;
 }
